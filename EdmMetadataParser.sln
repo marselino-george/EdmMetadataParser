@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdmMetadataParser", "EdmMetadataParser\EdmMetadataParser.csproj", "{0D955C59-95B8-4A07-8A65-D8A7B686A9EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D955C59-95B8-4A07-8A65-D8A7B686A9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D955C59-95B8-4A07-8A65-D8A7B686A9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D955C59-95B8-4A07-8A65-D8A7B686A9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D955C59-95B8-4A07-8A65-D8A7B686A9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CB3C967-E3F0-44F8-9BB7-FF8ECAD9528D}
+	EndGlobalSection
+EndGlobal
